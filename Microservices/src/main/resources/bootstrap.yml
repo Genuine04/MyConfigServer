@@ -13,5 +13,5 @@ spring:
           AwEHoUQDQgAE4HpaQcZVY4CvmLqXyU2G34DYTFSWFA3d6TJkrQu6qOloAjZGnRGp
           eVPQ2cOq+v6LG283ygwPs2cL9KNw23EAZQ==
           -----END EC PRIVATE KEY-----
-      bootstrap: true
+        bootstrap: true
       enabled: true
