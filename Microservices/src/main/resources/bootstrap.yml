@@ -1,0 +1,18 @@
+spring:
+  cloud:
+    config:
+      server:
+        git:
+          uri: git@github.com:Genuine04/MyConfigServer.git
+          ignoreLocalSshSettings: true
+          host-key: AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBOB6WkHGVWOAr5i6l8lNht+A2ExUlhQN3ekyZK0LuqjpaAI2Rp0RqXlT0NnDqvr+ixtvN8oMD7NnC/SjcNtxAGU= AndroidApp@DESKTOP-8FTKVUA
+          host-key-algorithm: ecdsa-sha2-nistp256
+          private-key:
+          -----BEGIN EC PRIVATE KEY-----
+  MHcCAQEEIBsL74DEV5Z7ybuSXtjvViYJ+QJGo+P7zvwTSpOn6PspoAoGCCqGSM49
+  AwEHoUQDQgAE4HpaQcZVY4CvmLqXyU2G34DYTFSWFA3d6TJkrQu6qOloAjZGnRGp
+  eVPQ2cOq+v6LG283ygwPs2cL9KNw23EAZQ==
+  -----END EC PRIVATE KEY-----
+
+bootstrap: true
+      enabled: true
