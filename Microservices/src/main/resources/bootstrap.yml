@@ -5,7 +5,7 @@ spring:
         git:
           uri: git@github.com:Genuine04/MyConfigServer.git
           ignoreLocalSshSettings: true
-          host-key: AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBOB6WkHGVWOAr5i6l8lNht+A2ExUlhQN3ekyZK0LuqjpaAI2Rp0RqXlT0NnDqvr+ixtvN8oMD7NnC/SjcNtxAGU= AndroidApp@DESKTOP-8FTKVUA
+          host-key: AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBEmKSENjQEezOmxkZMy7opKgwFB9nkt5YRrYMjNuG5N87uRgg6CLrbo5wAdT/y6v0mKV0U2w0WZ2YB/++Tpockg=
           host-key-algorithm: ecdsa-sha2-nistp256
           private-key: |
           -----BEGIN EC PRIVATE KEY-----
